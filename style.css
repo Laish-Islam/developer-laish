@@ -37,3 +37,21 @@ section{
 .margin{
 margin-top:-10px;
 }
+.second-half{
+width: 50%;
+padding-right:8%;
+padding-left: 4%;
+}
+.second-half2{
+    width: 50%;
+
+}
+.second-half2 img{
+    width: 85%;
+    margin-left: 8%;
+}
+.dream{
+background-image: url(images/dream-bg.png);
+background-repeat: no-repeat;
+background-position: bottom right;
+}
